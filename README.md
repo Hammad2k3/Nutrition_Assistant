@@ -1,4 +1,4 @@
-# 🍏 NutriAI — Your LangChain-powered Nutrition Assistant
+# 🍏 NutriAI — Your LangChain-powered Advanced Nutrition Assistant
 
 Welcome to **NutriAI**, a smart and interactive nutrition assistant built using **LangChain**, **Streamlit**, and **LLMs**. NutriAI creates **personalized nutrition plans** based on your health data, preferences, goals, and regional cuisine — all with a friendly interface and advanced reasoning from LLMs.
 
